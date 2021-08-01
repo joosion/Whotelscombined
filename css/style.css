@@ -91,13 +91,13 @@ section{
 .con1 .txt{
     position: absolute;
     left: 200px;
-    bottom: 250px;
+    bottom: 230px;
 }
 .con1 .txt p{
     font-size: 20px;
     padding: 0;
     font-family: 'AppleSDGothicNeoSB';
-    line-height: 45px;
+    line-height: 50px;
     text-align: left;
 }
 .con1 .txt span{
